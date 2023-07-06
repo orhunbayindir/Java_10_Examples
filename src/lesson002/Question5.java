@@ -34,6 +34,7 @@ public class Question5 {
 //		float sayi5 = input.nextFloat();
 
 		// dışarıdan char değeri alamayız
+		
 
 		System.out.println("sonuc " + (sayi1 + sayi2 + sayi3));
 
@@ -48,6 +49,9 @@ public class Question5 {
 		isim2 = input.nextLine();
 
 		System.out.println("isim" + isim2);
+		sayi2=input.nextInt();
+		System.out.println(sayi2);
+		
 
 	}
 

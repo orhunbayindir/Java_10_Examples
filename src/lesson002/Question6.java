@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 // Dairenin alanını ve çevresi hesaplayan bir program
 // Dışarıdan yarıçapı al
-//alan = pi*r*r
-//çevre= 2*pi*r
+// alan = pi*r*r
+// çevre= 2*pi*r
 
 public class Question6 {
 	

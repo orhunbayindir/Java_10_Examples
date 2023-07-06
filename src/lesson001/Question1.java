@@ -76,9 +76,11 @@ public class Question1 {
 		byte number4 = (byte) number1;
 		System.out.println(number3);
 		System.out.println(number4);
+		System.out.println("--------------");
 
 		long result = number1 + number3;
 		System.out.println(result);
+		System.out.println("-------------------");
 
 		short number5 = (short) (number1 + number3);
 		short number6 = (short) (number2 + number3);
@@ -87,6 +89,7 @@ public class Question1 {
 
 		System.out.println(number5);
 		System.out.println(number6);
+		System.out.println("-------------------");
 
 		double number9 = 25.4;
 
@@ -95,6 +98,7 @@ public class Question1 {
 		double result3 = number9 + number2;
 		System.out.println(result2);
 		System.out.println(result3);
+		
 
 		int number10 = 125 / 10;
 		System.out.println(number10);
@@ -110,7 +114,7 @@ public class Question1 {
 		String a = isim + number10;
 		System.out.println(a);
 		String deger1 = Integer.toString(number10);
-		System.out.println(deger1.length());
+		System.out.println(deger1.length());//deger uzunluğu kaç haneli
 
 		String deger2 = number10 + "";
 		String deger3 = "" + number10;

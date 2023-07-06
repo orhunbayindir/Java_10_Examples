@@ -28,7 +28,7 @@ public class Question2 {
 		
 		System.out.println(sonuc);
 		
-		// \t napıyo?
+		// \t napıyo boşluk bırakıyo
 		
 		
 		
