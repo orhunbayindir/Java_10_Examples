@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c84a730b-035a-4b2a-824c-5b27aff6d235" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/lesson29/J/Movie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson29/J/SerlizationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson29/okulApp/EDurum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson29/okulApp/FileManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson29/okulApp/Ogrenci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson29/okulApp/Ogretmen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson29/okulApp/Utility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson29/okulApp/Uygulama.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson29/okulApp/ogrenci.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson30/treadgiris/Calisan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson30/treadgiris/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson31/Hesap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson31/HesapTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson31/Kosucu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson31/YuzMetreYarisi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson32/factory/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson32/factory/DatabaseFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson32/factory/ILogger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson32/factory/MongoDb.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson32/factory/PostgreSql.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson32/factory/pizza/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson32/factory/pizza/EBoyut.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson32/factory/pizza/EHamurTipi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson32/factory/pizza/ETur.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson32/factory/pizza/KlasikPizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson32/factory/pizza/Pizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson32/factory/pizza/PizzaSiparis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson32/factory/pizza/Utility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson32/factory/pizza/VeganPizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson32/singelton/MyPostgreConnection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson32/singelton/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson32/singelton/eager/EvHalki.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson32/singelton/eager/Robot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson32/singelton/eager/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson32/singelton/enums/EvHalki.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson32/singelton/enums/Robot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson32/singelton/enums/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson32/singelton/lazy/EvHalki.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson32/singelton/lazy/Robot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson32/singelton/lazy/Test.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2U87a8xGljblqDd3uH8rgL7WqQl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/orhunbayindir/Desktop/Java10/eclipse/Java10Example",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c84a730b-035a-4b2a-824c-5b27aff6d235" name="Changes" comment="" />
+      <created>1692309419809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692309419809</updated>
+      <workItem from="1692309421000" duration="72000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
